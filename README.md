@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oxcode</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h3 align="center">A passionate frontend developer that is dedicated to coding and product development.</h3>
 
 - 🔭 I’m currently working on [Tech1M](https://user.tech1m.com)
 
