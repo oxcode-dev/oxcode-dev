@@ -22,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oxcode-dev&show_icons=true&locale=en&layout=compact" alt="oxcode-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oxcode-dev&show_icons=true&locale=en" alt="oxcode-dev" /></p>
+
+![](https://komarev.com/ghpvc/?username=oxcode-dev)
