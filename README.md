@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Tech1M](https://user.tech1m.com)
 
-- 🌱 I’m currently learning **Typescript, Framer Motion**
+- 🌱 I’m currently learning **Typescript & Framer Motion**
 
 - 💬 Ask me about **react, vue, nuxtjs, nextjs and firebase**
 
