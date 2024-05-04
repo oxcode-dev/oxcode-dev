@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oxcode</h1>
 <h3 align="center">A passionate frontend developer that is dedicated to coding and product development.</h3>
 
-- 🔭 I’m currently working on [Tech1M](https://user.tech1m.com)
+- 🔭 I’m currently working on [Tech1M Talents App](https://user.tech1m.com)
 
 - 🌱 I’m currently learning **Typescript & Framer Motion**
 
