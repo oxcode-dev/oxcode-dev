@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript & Framer Motion**
 
-- 💬 Ask me about **react, vue, nuxtjs, nextjs and firebase**
+- 💬 Ask me about **reactjs, vue3, nuxtjs, nextjs and firebase**
 
 - 📫 How to reach me **mrexcelsam1@gmail.com**
 
