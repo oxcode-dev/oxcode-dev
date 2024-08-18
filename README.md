@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Tech1M Talents App](https://user.tech1m.com)
 
-- 🌱 I’m currently learning **Unit Testing**
+- 🌱 I’m currently learning **Unit Testing on JS**
 
 - 💬 Ask me about **reactjs, vue3, nuxtjs, nextjs and firebase**
 
