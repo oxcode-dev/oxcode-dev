@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Tech1M Talents App](https://user.tech1m.com)
 
-- 🌱 I’m currently learning **Framer Motion**
+- 🌱 I’m currently learning **Unit Testing**
 
 - 💬 Ask me about **reactjs, vue3, nuxtjs, nextjs and firebase**
 
