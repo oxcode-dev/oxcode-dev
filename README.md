@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Oxcode</h1>
+<h1 align="left">Hello 👋, I'm Oxcode</h1>
 <h3 align="left">A passionate frontend developer that is dedicated to coding and product development.</h3>
 <p align="left" style="padding-top: 12px">I enjoyed developing new user-facing features, the structure and design of web pages, building reusable codes, optimizing page loading times, and using a variety of markup languages to create the web pages. Take a look at my portfolio, and let's create great projects together!</p>
 
