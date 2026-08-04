@@ -1,12 +1,12 @@
 <h1 align="left">Hello 👋, I'm Oxcode</h1>
-<h3 align="left">A passionate frontend developer that is dedicated to coding and product development.</h3>
-<p align="left" style="padding-top: 12px">I enjoyed developing new user-facing features, the structure and design of web pages, building reusable codes, optimizing page loading times, and using a variety of markup languages to create the web pages. Take a look at my portfolio, and let's create great projects together!</p>
+<h3 align="left">A passionate full-stack software developer dedicated to end-to-end product development.</h3>
+<p align="left" style="padding-top: 12px">I enjoy building intuitive user-facing features, designing scalable system architectures, and crafting robust APIs. My expertise spans optimizing page performance, engineering reusable codebases, and managing secure database structures. Take a look at my portfolio, and let's build powerful, seamless applications together!</p>
 
 - 🔭 I’m currently working on [Tech1M Talents App](https://user.tech1m.com)
 
-- 🌱 I’m currently learning **Unit Testing on JS**
+- 🌱 I’m currently learning **Backend System Design**
 
-- 💬 Ask me about **reactjs, vue3, nuxtjs, nextjs and firebase**
+- 💬 Ask me about **reactjs, vue3, nuxtjs, nextjs, nodejs, expressjs and firebase**
 
 - 📫 How to reach me **mrexcelsam1@gmail.com**
 
