@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Tech1M Talents App](https://user.tech1m.com)
 
-- 🌱 I’m currently learning **Backend System Design**
+- 🌱 I’m currently learning **Backend System Design & Docker**
 
 - 💬 Ask me about **reactjs, vue3, nuxtjs, nextjs, nodejs, expressjs and firebase**
 
